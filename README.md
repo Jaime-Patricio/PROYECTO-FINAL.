@@ -8,7 +8,7 @@ Son la serie de consecuencias ocurridas por el cambio climático, que es causado
 - Vapor del agua
 - Óxido nitroso
 Los gases de efecto invernadero (GEI) son principalmente causados por las industrias actuales, con su masiva sobreproducción de comida procesada, juguetes, entre muchas otras cosas.
-## Funcionalidad
+## Funcionalidad del bot
 - Reporte de noticias recientes sobre el tema, con un mensaje hecho por el bot.
 - Actualizar constantemente sobre la vericidad o progreso de la noticia en caso de ser falsa.
 - Dividir cada noticia con tipos de noticias: Nacionales, internacionales y globales.
