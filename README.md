@@ -13,7 +13,7 @@ Los gases de efecto invernadero (GEI) son principalmente causados por las indust
 ## Funcionalidad del bot
 - Reporte de noticias recientes sobre el tema, con un mensaje hecho por el bot.
 - Verificar constantemente sobre la vericidad o progreso de las noticias en caso de ser falsas.
-- Dividir cada noticia con tipos de noticias: Nacionales, internacionales y globales, y su nivel de importancia, desde bajo, a alto.
+- Dividir cada noticia con tipos de noticias: nacionales, internacionales y globales, y su nivel de importancia, desde bajo, a alto.
 - Actualizar en estadísticas sobre la emisión de gases de efecto invernadero por medio de gráficos.
 
 
@@ -24,3 +24,5 @@ Los gases de efecto invernadero (GEI) son principalmente causados por las indust
 ### Comandos:
 - Noticias (Para preguntar si hay alguna novedad del tema.)
 - Emisiones (Reporte de posibles estadísticas de la emisiones de GEI de algún país.)
+- Origen (De donde puede o proviene la noticia/rumor, es decir, la página web, su enlace.)
+- Relevancia (Dependiendo del tipo de noticia, se determinará el nivel de importancia y su ubicación.)
