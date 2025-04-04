@@ -20,9 +20,16 @@ Los gases de efecto invernadero (GEI) son principalmente causados por las indust
 ## Tecnologías a usar (Bibliotecas Python, enfoque de trabajo, comandos (mínimo 6.), etc.)
 ### Librerías:
 - Discord / Discord.py
+- Requests
+  
+  ### Métodos de obtención de info.
+- Web Scraping
 
-### Comandos:
+
+### Comandos
+- Sobre mí (Qué hace el bot hasta el momento, explicando los comandos, su razón de existencia, etc.)
 - Noticias (Para preguntar si hay alguna novedad del tema.)
 - Emisiones (Reporte de posibles estadísticas de la emisiones de GEI de algún país.)
 - Origen (De donde puede o proviene la noticia/rumor, es decir, la página web, su enlace.)
+- Credibilidad (Dependiendo de donde provenga la noticia, el bot te dirá si es confiable la página, es decir, la noticia o informe.)
 - Relevancia (Dependiendo del tipo de noticia, se determinará el nivel de importancia y su ubicación.)
