@@ -12,8 +12,7 @@ Los gases de efecto invernadero (GEI) son principalmente causados por las indust
 
 ## Funcionalidad del bot
 - Reporte de anomalías en el clima, emisiones de dióxido de carbono, métano, óxido nitroso, el derretimiento del hielo polar y el calentamiento del océano, con un mensaje hecho por el bot.
-- División entre las noticias, comandos específicos para cada uno de los temas anteriormente mencionados.
-- Actualizar en estadísticas sobre la emisión de gases de efecto invernadero por medio de gráficos.
+Cada uno de estas anomalías presentadas serán presentadas con un comando único, que nos dispone información variada entre hace varios años.
 
 
 ## Tecnologías a usar (Bibliotecas Python, enfoque de trabajo, comandos (mínimo 6.), etc.)
@@ -22,7 +21,7 @@ Los gases de efecto invernadero (GEI) son principalmente causados por las indust
 - Requests
   
   ### Métodos de obtención de info.
-- Web Scraping
+- Web Scraping/API.
 
 
 ### Comandos
