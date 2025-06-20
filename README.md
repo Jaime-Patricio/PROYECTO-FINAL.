@@ -11,7 +11,7 @@ Los gases de efecto invernadero (GEI) son principalmente causados por las indust
 
 
 ## Funcionalidad del bot
-- Reporte de anomalías en el clima, emisiones de dióxido de carbono, métano, óxido nitroso, el derretimiento del hielo polar y el calentamiento del océano, con un mensaje hecho por el bot.
+- Reporte de anomalías en el clima, emisiones de dióxido de carbono, métano y el óxido nitroso.
 Cada uno de estas anomalías presentadas serán presentadas con un comando único, que nos dispone información variada entre hace varios años.
 
 
@@ -27,6 +27,6 @@ Cada uno de estas anomalías presentadas serán presentadas con un comando únic
 ### Comandos
 - Sobre mí (Qué hace el bot hasta el momento, explicando los comandos, su razón de existencia, etc.)
 -
-- Emisiones (Reporte de posibles estadísticas de la emisiones de GEI de algún país.)
-Esto se dividiría entre anomalías en el clima, emisiones de GEI, derretimiento de las capas polares y calentamiento del océano.
+- Emisiones (Reporte de posibles estadísticas de la emisiones de GEI de forma global.)
+Esto se dividiría entre anomalías en el clima y las emisiones de los GEI.
 Cada una será un comando por separado. 
