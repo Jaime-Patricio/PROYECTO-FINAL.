@@ -21,7 +21,7 @@ Cada uno de estas anomalías presentadas serán presentadas con un comando únic
 - Requests
   
   ### Métodos de obtención de info.
-- Web Scraping/API.
+- API.
 
 
 ### Comandos
